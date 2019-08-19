@@ -1,2 +1,2 @@
 # ssda
-ssda programming compitition
+ssda programming compitition by Tauseef Iftikahr
